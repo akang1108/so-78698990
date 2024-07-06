@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/78698990/spring-webflux-spring-security-preauthorize-not-working-work-using-kotlin
